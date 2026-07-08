@@ -21,9 +21,19 @@ A premium, elegant jewelry shopping application built using Flutter. This app fe
 [//]: # (*&#40;Note: Replace these placeholders with actual screenshots from your app&#41;*)
 
 
-| Login Screen                           | Dashboard                                | Product Details                            |
-|----------------------------------------|------------------------------------------|--------------------------------------------|
-| ![Login](Screenshots/loginScreen1.png) | ![Dashboard](Screenshots/Dashboard1.png) | ![Details](Screenshots/ProductDetail1.png) |
+| Login Screen                               | Dashboard                                    | Product Details                                |
+|--------------------------------------------|----------------------------------------------|------------------------------------------------|
+| ![Login](Screenshots/LoginScreen1.png)     | ![Dashboard](Screenshots/Dashboard1.png)     | ![Details](Screenshots/ProductDetail1.png)     |
+| ----------------------------------------   | ------------------------------------------   | --------------------------------------------   |
+| ![Login](Screenshots/LoginScreen2.png)     | ![Dashboard](Screenshots/Dashboard2.png)     | ![Details](Screenshots/ProductDetail2.png)     |
+| ------------------------------------------ | -------------------------------------------- | ---------------------------------------------- |
+| Profile Screen                             | Cart                                         | Wishlist                                       |
+| ------------------------------------------ | -------------------------------------------- | ---------------------------------------------- |
+| ![Profile](Sreenshots/Profile1.png)        | ![Cart](Screenshots/Cart.png)                | ![Wishlist](Screenshots/Wishlist.png)          |
+| ------------------------------------------ | -------------------------------------------- | ---------------------------------------------- |
+| ![Profile](Sreenshots/Profile2.png)        |                 |           |
+| ------------------------------------------ |--------------------------------------------|----------------------------------------------|
+
 
 ## 🛠️ Technologies Used
 - **Framework:** [Flutter](https://flutter.dev/)
