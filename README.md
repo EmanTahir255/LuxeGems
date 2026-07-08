@@ -29,9 +29,9 @@ A premium, elegant jewelry shopping application built using Flutter. This app fe
 | ------------------------------------------ | -------------------------------------------- | ---------------------------------------------- |
 | Profile Screen                             | Cart                                         | Wishlist                                       |
 | ------------------------------------------ | -------------------------------------------- | ---------------------------------------------- |
-| ![Profile](Sreenshots/Profile1.png)        | ![Cart](Screenshots/Cart.png)                | ![Wishlist](Screenshots/Wishlist.png)          |
+| ![Profile](Screenshots/Profile1.png)       | ![Cart](Screenshots/Cart.png)                | ![Wishlist](Screenshots/Wishlist.png)          |
 | ------------------------------------------ | -------------------------------------------- | ---------------------------------------------- |
-| ![Profile](Sreenshots/Profile2.png)        |                 |           |
+| ![Profile](Screenshots/Profile2.png)       |                 |           |
 | ------------------------------------------ |--------------------------------------------|----------------------------------------------|
 
 
